@@ -18,7 +18,7 @@ Example:
 `
 
 const tmplt = `
-═══ %s %s %d bytes ═══
+═══ %s | %s | %d bytes ═══
 %s
 ═══ END
 
